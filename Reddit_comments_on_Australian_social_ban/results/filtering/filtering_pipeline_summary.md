@@ -1,0 +1,13 @@
+| Stage                                  |   Posts Remaining |
+|:---------------------------------------|------------------:|
+| Raw scraped data                       |             12229 |
+| After Stage 1 (deduplication + length) |              6268 |
+| After Placeholder Filter               |              6268 |
+| After Date Filter                      |              2424 |
+| After Score Filter                     |              1605 |
+| After Length Filter                    |              1603 |
+| After Lang Filter                      |              1597 |
+| After Author Filter                    |              1597 |
+| After Empty Body Filter                |              1134 |
+| After Stage 2 filters (Final)          |              1134 |
+| Keyword Matched (Stage 3)              |               597 |

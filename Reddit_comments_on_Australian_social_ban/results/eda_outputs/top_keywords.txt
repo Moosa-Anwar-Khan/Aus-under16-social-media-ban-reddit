@@ -1,0 +1,77 @@
+AskAnAustralian:
+  the: 21
+  to: 20
+  media: 16
+  a: 15
+  in: 15
+
+AskParents:
+  i: 13
+  my: 12
+  do: 12
+  a: 10
+  to: 10
+
+AustralianPolitics:
+  the: 25
+  to: 22
+  election: 16
+  of: 16
+  a: 12
+
+Education:
+  of: 6
+  to: 5
+  school: 3
+  social: 3
+  media: 3
+
+Futurology:
+  the: 13
+  of: 9
+  media: 8
+  social: 7
+  and: 7
+
+Parenting:
+  my: 28
+  and: 21
+  to: 21
+  i: 16
+  the: 16
+
+SocialMedia:
+  social: 68
+  media: 65
+  marketing: 29
+  and: 26
+  in: 23
+
+YouthRights:
+  the: 29
+  media: 27
+  social: 25
+  is: 20
+  of: 20
+
+australia:
+  and: 8
+  the: 8
+  to: 7
+  on: 6
+  media: 6
+
+privacy:
+  to: 28
+  the: 21
+  social: 19
+  media: 18
+  and: 16
+
+teenagers:
+  social: 18
+  media: 18
+  the: 16
+  a: 15
+  to: 14
+

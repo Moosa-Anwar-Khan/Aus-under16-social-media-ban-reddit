@@ -1,0 +1,5 @@
+Topic 0: 0.019*"information" + 0.013*"use" + 0.011*"data" + 0.010*"privacy" + 0.010*"personal" + 0.009*"service" + 0.007*"may" + 0.007*"would" + 0.006*"account" + 0.006*"company"
+Topic 1: 0.028*"new" + 0.015*"launch" + 0.012*"tiktok" + 0.011*"google" + 0.010*"content" + 0.010*"feature" + 0.009*"instagram" + 0.009*"ad" + 0.009*"user" + 0.009*"meta"
+Topic 2: 0.007*"kid" + 0.007*"one" + 0.006*"even" + 0.006*"year" + 0.006*"want" + 0.006*"get" + 0.006*"would" + 0.006*"child" + 0.005*"time" + 0.005*"school"
+Topic 3: 0.012*"dont" + 0.011*"know" + 0.009*"get" + 0.009*"time" + 0.007*"one" + 0.007*"bee" + 0.007*"friend" + 0.007*"thing" + 0.006*"would" + 0.006*"son"
+Topic 4: 0.010*"party" + 0.010*"government" + 0.009*"said" + 0.008*"australian" + 0.008*"election" + 0.008*"labor" + 0.007*"would" + 0.006*"australia" + 0.006*"campaign" + 0.006*"dutton"
