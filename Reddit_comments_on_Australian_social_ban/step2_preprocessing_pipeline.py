@@ -1,5 +1,3 @@
-# reddit_preprocessing_pipeline.py
-
 import pandas as pd
 import re
 import json
